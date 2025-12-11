@@ -1,0 +1,10 @@
+{
+  "server_name": "Evercraft",
+  "server_ip": "evercraft.server.com",
+  "server_port": "25565",
+  "force_connect": false,
+  "maintenance": false,
+  "announcement": "",
+  "lastUpdated": "2025-01-01T00:00:00.000Z"
+}
+
