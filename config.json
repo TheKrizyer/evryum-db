@@ -1,5 +1,10 @@
 {
   "blockedVersions": [
     "1.21.11"
-  ]
+  ],
+  "server": {
+    "name": "Evercraft",
+    "address": "evercraft.sosal.today",
+    "port": 25565
+  }
 }
